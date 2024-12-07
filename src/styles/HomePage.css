@@ -1,0 +1,11 @@
+/* src/styles/HomePage.css */
+body.homepage-background {
+    background-image: url('"C:\Users\aasri\OneDrive\Desktop\image.jpg"');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+  }
+  
